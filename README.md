@@ -1,28 +1,25 @@
 # Lab10Web
 
-## PHP Modular
+## PHP OOP
 
-### Langkah - langkah Pratikum 9
+### Langkah - langkah Pratikum 10
 
-#### membuat folder lab9_php_modular
+#### membuat folder lab10_php_oop
 
-Dengan mengaktifkan xampp terlebih dahulu untuk menyalakan aphace dan mysql, lalu kemudian membuat folder baru dengan nama lab9_php_modular pada root directory web server (c:\xampp\htdocs). dan bisa di cek melalui http://localhost/lab9_php_modular/ pada google chrome maupun mozila. Beginilah tampilannya:
-![gambar1](screenshot/ss3.png)
+Dengan mengaktifkan xampp terlebih dahulu untuk menyalakan aphace dan mysql, lalu kemudian membuat folder baru dengan nama lab10_php_oop pada root directory web server (c:\xampp\htdocs). dan bisa di cek melalui http://localhost/lab10_php_oop/ pada google chrome maupun mozila. Beginilah tampilannya:
+![gambar1](screenshot/ss1.png)
 
-#### Membuat Header, Footer dan Home
+#### Membuat File mobil.php
 
-Dengan membuat halaman header dan footer terlebih dahulu. kemudian membuat file home untuk memanggilnya kita connectkan dengan file header dan footer yang sebelumnya dibuat. Inilah tampilannya:
-![gambar2](screenshot/ss1.png)
+Dengan membuat file mobil.php yang menapilkan keterangan. Inilah tampilannya:
+![gambar2](screenshot/mbl.png)
 
-#### Menambahkan File About
+#### Membuat File class
 
-kemudian membuat file about untuk memanggilnya kita connectkan dengan file header dan footer yang sebelumnya dibuat. Inilah tampilannya:
-![gambar3](screenshot/ss2.png)
+kemudian membuat file class, sebagai wadah script yang digunakan sebagai cetakan untuk membuat objek. Inilah tampilannya:
+![gambar3](screenshot/form.png)
 
-#### Hasil Pratikum 9 yang diimplementasikan dengan pratikum 8
+#### Hasil pratikum 10
 
-konsep modularisasi pada kode program praktikum 8 tentang
-database, sehingga setiap halamannya memiliki template tampilan yang sama. Inilah tampilany:
+dengam membuat file baru dengan nama form.php yang memangil file class. Inilah tampilanya:
 ![gambar4](screenshot/hsl.png)
-
-# Lab10Web
